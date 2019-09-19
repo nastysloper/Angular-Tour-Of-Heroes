@@ -1,0 +1,4 @@
+*.json
+.editorconfig
+node_modules/
+*config*
